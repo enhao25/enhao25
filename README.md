@@ -1,7 +1,7 @@
 ### Hi there, I'm Enhao! [Personal Portfolio Website][website] 👋
 
 ## I'm a Student, Web Developer, and an Aspiring FinTech Developer!
-- 😃 I’m currently a Year 2 **Computer Science** Student in NUS
+- 😃 I’m currently a Year 3 **Computer Science** Student in NUS
 - 🌱 I’m currently **learning different fields** to upgrade my knowledge (Especially in the area of **FinTech**) 🤣
 - ⚡ Fun fact: I like to **watch superheros show**, **read** and also and learn about **investment in either stocks / crpytocurrency**
 
